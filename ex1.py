@@ -1,4 +1,4 @@
-var1 = "Deloitte"
-city = "bengaluru"
+var1 = "Deloitte USI"
+City = "Hyderabad"
 
-print("Hi, I work for {}, in the {} office").format(var1, city)
+print("Hi, I work for {}, located in {}").format(var1, City)
